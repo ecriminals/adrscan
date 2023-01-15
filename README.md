@@ -5,7 +5,7 @@
 #### I made this out of boredom.
 
 # How To Use
-> - download required libaries. (requests, colorama)
+> - download required libaries. (colorama)
 > - experiment with the threads.
 >
 
