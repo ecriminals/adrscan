@@ -10,4 +10,4 @@
 >
 
 # Credits
-> @[beliefs](https://github.com/b3lief)
+> @[ledges](https://github.com/ledges)
